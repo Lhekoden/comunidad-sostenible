@@ -1,0 +1,14 @@
+/* Inserta tu codigo aqui */
+.img-fluid{
+    max-width: 100%; 
+    height: auto;
+}
+nav img{
+    max-height: 80px;
+}
+.title-content h4{
+    display: inline-block;
+}
+.image-box{
+    align-content: center;
+}
